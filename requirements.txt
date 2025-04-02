@@ -4,3 +4,4 @@ python-dotenv
 newspaper3k
 duckduckgo-search
 fpdf
+lxml[html_clean]
