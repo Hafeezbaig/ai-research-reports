@@ -1,0 +1,3 @@
+# Utility functions can go here
+def clean_text(text):
+    return text.strip()
